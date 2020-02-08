@@ -1,0 +1,41 @@
+
+/* Este es un comentario */
+
+/*
+body {
+    background:#000000;
+    color:#ffffff;
+}
+*/
+
+
+/*Selectores*/
+
+/*Selector universal
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*/
+
+
+h2 {
+    color: gray;
+    font-family: Arial;
+}
+
+p {
+    font-family: Cambria;
+    /*Unidades de medida*/
+    font-size: 16px;
+    /*font-size: 16cm  Valor en centímetros*/
+    /*font-size: 16em  Toma el valor del padre más cercano*/
+    /*font-size: 16rem Toma el valor del padre body*/
+    /*font-size: 16%   Toma el valor porcentual respecto a la pantalla*/
+}
+
+h3 {
+    color:grey;
+}
