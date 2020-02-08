@@ -1,12 +1,16 @@
 
 /* Este es un comentario */
 
-/*
+
 body {
-    background:#000000;
-    color:#ffffff;
+    background:url(../imagenes/MountainAndMoon.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    color: beige;
+    text-size-adjust: none;
 }
-*/
+
 
 
 /*Selectores*/
