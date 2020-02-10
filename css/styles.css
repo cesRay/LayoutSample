@@ -3,12 +3,14 @@
 
 
 body {
-    background:url(../imagenes/MountainAndMoon.jpg);
+    background:url(../imagenes/cardumen.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: auto;
+    background-size: none;
     color: beige;
-    text-size-adjust: none;
+    text-size-adjust: auto;
+    background-attachment: fixed;
+    background-clip: border-box;
 }
 
 
@@ -23,6 +25,18 @@ body {
 }
 
 */
+
+a {
+    color: rgba(150, 255, 255, 0.6)
+}
+
+p {
+    background: rgba(98, 109, 129, 0.3);
+    width: 500px;
+    margin: 10px;
+    border: 2px solid rgba(143, 160, 200, 0.3);
+
+}
 
 
 h2 {
