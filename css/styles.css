@@ -78,13 +78,13 @@ h3 {
     background: rgba(13, 59, 102, 0.4);
     width: 1075px;
     margin: 10px;
-    border: 2px solid rgba(143, 160, 200, 0.3);
+    /*border: 2px solid rgba(143, 160, 200, 0.3);*/
     position: relative;
-    left: 350px;
+    left: 380px;
 }
 
 .mainImage {
     position: relative;
-    left: 360px;
+    left: 390px;
 
 }
