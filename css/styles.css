@@ -43,7 +43,7 @@ h2 {
     color: white;
     font-family: Arial;
     position: relative;
-    left: 125px;
+    left: 11%;
 }
 
 p {
@@ -65,7 +65,7 @@ h3 {
     top:;
     bottom:205px;
     right:;
-    left:550px;
+    left:50%;
 }
 
 
@@ -76,16 +76,17 @@ h3 {
 
 .mainBlock {
     background: rgba(13, 59, 102, 0.4);
-    padding: 15px;
-    width: 1075px;
-    margin: 10px;
+    padding: 1%;
+    width: 55.5%;
     /*border: 2px solid rgba(143, 160, 200, 0.3);*/
     position: relative;
-    left: 380px;
+    left: 20%;
 }
 
 .mainImage {
     position: relative;
-    left: 390px;
+    left: 20.5%;
 
 }
+
+
