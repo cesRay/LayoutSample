@@ -40,8 +40,10 @@ p {
 
 
 h2 {
-    color: gray;
+    color: white;
     font-family: Arial;
+    position: relative;
+    left: 125px;
 }
 
 p {
@@ -55,5 +57,34 @@ p {
 }
 
 h3 {
-    color:grey;
+    color: white;
+}
+
+.textBlock {
+    position: relative;
+    top:;
+    bottom:205px;
+    right:;
+    left:550px;
+}
+
+
+.menuBar {
+
+}
+
+
+.mainBlock {
+    background: rgba(13, 59, 102, 0.4);
+    width: 1075px;
+    margin: 10px;
+    border: 2px solid rgba(143, 160, 200, 0.3);
+    position: relative;
+    left: 350px;
+}
+
+.mainImage {
+    position: relative;
+    left: 360px;
+
 }
