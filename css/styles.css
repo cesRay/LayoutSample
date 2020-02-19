@@ -87,11 +87,12 @@ button{
     position: relative;
     background-color: rgba(238, 240, 241, 0.6);
     left: 15em;
-    width: 30em;
+    width: 25em;
     height: 1.8em;
     border-radius: 10px;
     border-width: 0px;
     color:rgba(87, 87, 87, 1);
+    font-size: 16px;
 }
 
 .mainBlock {
@@ -117,6 +118,7 @@ button{
 .mainImage {
     position: relative;
     left: 20.5%;
+    width:20em;
 
 }
 
